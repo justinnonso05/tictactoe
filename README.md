@@ -1,6 +1,6 @@
 # Tictactoe Application with python
 
-### Visit [here](https://justondev.vercel.app/zip/Tictactoe.zip)) to download the zip file containing the application
+### Visit [here](https://justondev.vercel.app/zip/Tictactoe.zip) to download the zip file containing the application
 
 ## Screenshot
 
